@@ -1,0 +1,61 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.juancastano.colors.MainActivity" >
+   
+    <item
+        android:id="@+id/itemRed"
+        android:orderInCategory="100"
+        android:title="@string/itemRed"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/itemGreen"
+        android:orderInCategory="100"
+        android:title="@string/itemGreen"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/itemBlue"
+        android:orderInCategory="100"
+        android:title="@string/itemBlue"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/itemAlpha"
+        android:orderInCategory="100"
+        android:title="@string/itemAlpha"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/itemCyan"
+        android:orderInCategory="100"
+        android:title="@string/itemCyan"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/itemMagenta"
+        android:orderInCategory="100"
+        android:title="@string/itemMagenta"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/itemYellow"
+        android:orderInCategory="100"
+        android:title="@string/itemYellow"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/itemBlack"
+        android:orderInCategory="100"
+        android:title="@string/itemBlack"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/itemWhite"
+        android:orderInCategory="100"
+        android:title="@string/itemWhite"
+        app:showAsAction="never"/>
+    
+</menu>
+<!-- From: file:/home/juan/AndroidStudioProjects/Ejemplo/app/src/main/res/menu/menu_main_colors.xml -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MAIN ACTIVITY -->
+    <string name="app_name">Colors Sliders</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- ITEM MENU COLORS -->
+    <string name="itemRed">Red</string>
+    <string name="itemGreen">Green</string>
+    <string name="itemBlue">Blue</string>
+    <string name="itemAlpha">Alpha</string>
+    <string name="itemCyan">Cyan</string>
+    <string name="itemMagenta">Magenta</string>
+    <string name="itemYellow">Yellow</string>
+    <string name="itemBlack">Black</string>
+    <string name="itemWhite">White</string>
+
+
+    <!-- ITEM MENU IMAGES -->
+    <string name="itemImage1">Image 1</string>
+    <string name="itemImage2">Image 2</string>
+    <string name="itemImage3">Image 3</string>
+    <string name="itemImage4">Image 4</string>
+    <string name="itemImage5">Image 5</string>
+    <string name="itemAboutOf">About of</string>
+
+
+    <!-- ABOUT ACTIVITY -->
+    <string name="title_activity_about">About Activity</string>
+    <string name="version">1.0</string>
+    <string name="creator_first_name">Juan Camilo</string>
+    <string name="creator_last_name">Castaño Serna</string>
+    <string name="copyright">Copyrigth</string>
+
+</resources>

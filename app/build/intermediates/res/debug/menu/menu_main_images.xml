@@ -1,0 +1,45 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.juancastano.colors.MainActivity">
+
+
+    <item
+        android:id="@+id/itemImage1"
+        android:orderInCategory="100"
+        android:title="@string/itemImage1"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/itemImage2"
+        android:orderInCategory="100"
+        android:title="@string/itemImage2"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/itemImage3"
+        android:orderInCategory="100"
+        android:title="@string/itemImage3"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/itemImage4"
+        android:orderInCategory="100"
+        android:title="@string/itemImage4"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/itemImage5"
+        android:orderInCategory="100"
+        android:title="@string/itemImage5"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/itemAboutof"
+        android:orderInCategory="100"
+        android:title="@string/itemAboutOf"
+        app:showAsAction="never"/>
+
+
+</menu>
+<!-- From: file:/home/juan/AndroidStudioProjects/Ejemplo/app/src/main/res/menu/menu_main_images.xml -->
